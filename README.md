@@ -1,7 +1,6 @@
-## PackDeliver
-PackDeliver is a simple and efficient system designed to manage and deliver aid packages. It calculates package values, optimizes loading based on vehicle capacity, and provides delivery schedules to ensure timely aid distribution.
-
 # PackDeliver System
+
+PackDeliver is a simple and efficient system designed to manage and deliver aid packages. It calculates package values, optimizes loading based on vehicle capacity, and provides delivery schedules to ensure timely aid distribution.
 
 ## Overview
 The **PackDeliver System** is a C++ program designed to simulate the process of loading and delivering aid packages. The system reads data from various text files, processes the package information, and outputs the results in terms of the delivery details. The program calculates package values, loads packages into a vehicle based on the available capacity, and provides delivery times and other relevant information.
